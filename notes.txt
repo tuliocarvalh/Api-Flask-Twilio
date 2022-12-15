@@ -1,0 +1,5 @@
+Para poder usar o bot, crie uma conta na plataforma Twilio, obtenha o token, use-o no início do código.
+Baixe o ngrok, inicie a aplicação e o ngrok no tunel correto. Depois adicione o link gerado pelo ngrok nas configuracoes de whatsapp da plataforma, antes da barra "bot".
+Depois voce precisa somente enviar a mensagem gerada para o whatsapp da twilio e testar as funcionalidades. 
+
+Link da plataforma: "https://www.twilio.com/pt-br/"
